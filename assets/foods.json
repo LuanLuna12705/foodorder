@@ -1,0 +1,159 @@
+[
+  {
+    "id": "1",
+    "title": "Gà rán Jollibee giòn cay",
+    "price": "49.000 đ",
+    "category": "Đồ ăn nhanh",
+    "subtitle": "GÀ RÁN GIÒN CAY",
+    "description": "Thịt gà tươi ướp gia vị đậm đà, chiên giòn rụm bên ngoài và mềm ngọt bên trong. Đi kèm sốt ớt cay bùng vị.",
+    "rating": 4.8,
+    "address": "123 Cầu Giấy, Hà Nội",
+    "imagePath": "assets/images/food1.jpg",
+    "sizes": [
+      {"name": "Vừa (Size M)", "extraPrice": 0},
+      {"name": "Lớn (Size L)", "extraPrice": 15000}
+    ],
+    "toppings": [
+      {"name": "Thêm sốt cay đặc biệt", "price": 5000},
+      {"name": "Khoai tây chiên nhỏ", "price": 15000},
+      {"name": "Khoai lắc phô mai", "price": 20000}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bánh mì pate trứng nóng giòn",
+    "price": "25.000 đ",
+    "category": "Đồ ăn nhanh",
+    "subtitle": "BÁNH MÌ GIÒN NÓNG",
+    "description": "Bánh mì nướng giòn rụm, pate béo ngậy gia truyền, ốp la 2 trứng lòng đào kèm dưa góp dầm chua ngọt.",
+    "rating": 4.6,
+    "address": "15 Hàng Bạc, Hà Nội",
+    "imagePath": "assets/images/food4.png",
+    "sizes": [
+      {"name": "Tiêu chuẩn", "extraPrice": 0},
+      {"name": "Đặc biệt (Gấp đôi pate)", "extraPrice": 10000}
+    ],
+    "toppings": [
+      {"name": "Thêm 1 trứng ốp la", "price": 5000},
+      {"name": "Thêm xúc xích", "price": 8000},
+      {"name": "Thêm dưa góp & rau thơm", "price": 2000}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Trà sữa trân châu đường đen",
+    "price": "35.000 đ",
+    "category": "Trà sữa/Đồ uống",
+    "subtitle": "ĐƯỜNG ĐEN THƠM NGỌT",
+    "description": "Trà sữa thơm béo chuẩn vị Đài Loan kết hợp trân châu đường đen nấu dẻo thơm ngậy.",
+    "rating": 4.9,
+    "address": "88 Chùa Lạng, Hà Nội",
+    "imagePath": "assets/images/food5.png",
+    "sizes": [
+      {"name": "Size M", "extraPrice": 0},
+      {"name": "Size L", "extraPrice": 8000}
+    ],
+    "toppings": [
+      {"name": "Thêm trân châu đường đen", "price": 5000},
+      {"name": "Thêm kem cheese béo ngậy", "price": 10000},
+      {"name": "Thêm thạch pudding trứng", "price": 7000}
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Cơm tấm sườn bì chả nướng",
+    "price": "45.000 đ",
+    "category": "Cơm",
+    "subtitle": "SƯỜN BÌ CHẢ ĐẶC BIỆT",
+    "description": "Cơm tấm dẻo ngon, sườn ướp mật nướng than hoa thơm lừng, bì giòn dai và chả trứng hấp béo ngậy.",
+    "rating": 4.7,
+    "address": "102 Nguyễn Trãi, Hà Nội",
+    "imagePath": "assets/images/food6.png",
+    "sizes": [
+      {"name": "Suất thường", "extraPrice": 0},
+      {"name": "Suất đặc biệt (Cơm thêm)", "extraPrice": 5000}
+    ],
+    "toppings": [
+      {"name": "Thêm 1 miếng sườn nướng", "price": 20000},
+      {"name": "Thêm 1 ốp la", "price": 6000},
+      {"name": "Thêm mỡ hành & tóp mỡ", "price": 3000}
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Phở bò tái lăn Hà Nội",
+    "price": "48.000 đ",
+    "category": "Bún/Phở",
+    "subtitle": "PHỞ BÒ HÀ NỘI GIA TRUYỀN",
+    "description": "Nước dùng ninh xương ngọt thanh đậm đà, thịt bò tươi xào tái lăn tỏi thơm lừng, bánh phở dẻo dai.",
+    "rating": 4.8,
+    "address": "13 Lò Đúc, Hà Nội",
+    "imagePath": "assets/images/food7.png",
+    "sizes": [
+      {"name": "Bát vừa", "extraPrice": 0},
+      {"name": "Bát đặc biệt", "extraPrice": 12000}
+    ],
+    "toppings": [
+      {"name": "Thêm quẩy giòn (3 cái)", "price": 5000},
+      {"name": "Thêm 1 trứng chần", "price": 5000},
+      {"name": "Thêm thịt bò tái", "price": 15000}
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bún chả Hà Nội nướng than",
+    "price": "55.000 đ",
+    "category": "Bún/Phở",
+    "subtitle": "BÚN CHẢ NƯỚNG THAN HOA",
+    "description": "Chả miếng và chả viên nướng tẩm ướp đậm đà, nước chấm chua ngọt tỏi ớt kèm đu đủ giòn.",
+    "rating": 4.9,
+    "address": "74 Hàng Quạt, Hoàn Kiếm, Hà Nội",
+    "imagePath": "assets/images/food3.jpg",
+    "sizes": [
+      {"name": "Suất thường", "extraPrice": 0},
+      {"name": "Suất đặc biệt", "extraPrice": 15000}
+    ],
+    "toppings": [
+      {"name": "Thêm 1 nem hải sản giòn", "price": 12000},
+      {"name": "Thêm bún", "price": 5000}
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Bún đậu mắm tôm mẹt đặc biệt",
+    "price": "65.000 đ",
+    "category": "Bún/Phở",
+    "subtitle": "MẸT ĐẶC BIỆT ĐẦY ĐỦ",
+    "description": "Đậu hũ chiên lướt ván giòn rụm, chả cốm nướng thơm, thịt chân giò luộc, dồi sụn nướng kèm mắm tôm chuẩn vị.",
+    "rating": 4.7,
+    "address": "55 Phất Lộc, Hà Nội",
+    "imagePath": "assets/images/food1.jpg",
+    "sizes": [
+      {"name": "Mẹt 1 người", "extraPrice": 0},
+      {"name": "Mẹt 2 người", "extraPrice": 55000}
+    ],
+    "toppings": [
+      {"name": "Thêm chả cốm nướng", "price": 10000},
+      {"name": "Thêm dồi sụn nướng", "price": 15000},
+      {"name": "Thêm đĩa đậu rán giòn", "price": 10000}
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Bánh trung thu sầu riêng trứng muối",
+    "price": "180.000 đ",
+    "category": "Tráng miệng",
+    "subtitle": "BÁNH TRUNG THU CAO CẤP",
+    "description": "Nhân sầu riêng tươi chín cây béo ngậy kết hợp trứng muối mặn nhẹ thơm ngon bùi bùi.",
+    "rating": 4.6,
+    "address": "456 Phố Huế, Hà Nội",
+    "imagePath": "assets/images/food2.jpg",
+    "sizes": [
+      {"name": "Hộp 1 bánh (150g)", "extraPrice": 0},
+      {"name": "Hộp quà tặng 2 bánh", "extraPrice": 170000}
+    ],
+    "toppings": [
+      {"name": "Hộp quà biếu cao cấp", "price": 20000}
+    ]
+  }
+]
